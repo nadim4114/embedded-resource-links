@@ -1,3 +1,5 @@
+
 cross compilation basic using command line : https://hackaday.com/2016/02/03/code-craft-cross-compiling-for-the-raspberry-pi/
 cross compilation example : https://github.com/robotdad/LinuxCrossCompile/tree/master
 Using docker to cross compile for raspberry pi : https://hackaday.com/2016/09/01/how-to-use-docker-to-cross-compile-for-raspberry-pi-and-more/#more-220316
+Use VS code to develop STM32 MCU programs : https://www.bing.com/videos/riverview/relatedvideo?&q=cross+compiling+on+VS+code&&mid=FDFF7B1C82F94945CB17FDFF7B1C82F94945CB17&&FORM=VRDGAR
